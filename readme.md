@@ -6,3 +6,5 @@
 * step 00
 * step 01
 * step 02
+
+## Delegation is a way to decide what you should not do!
